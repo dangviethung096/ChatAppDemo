@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="test_string">This is a test String</string>
+</resources>
